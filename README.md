@@ -1,4 +1,4 @@
-## &nbsp; <img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40Naishad-M~%23+whoami;%E2%9C%93+Android+developer;%E2%9C%93+Problem+solver+;%E2%9C%93+MERN+stack+developer+;%E2%9C%93+Full+Stack+developer+;%E2%9C%93+Web+Developer+;%E2%9C%93+Freelancer+)](https://git.io/typing-svg)
+## &nbsp; <img src="https://c.tenor.com/BVBgvydKE4gAAAAi/hello-yellow-bird.gif" alt="Waving hand" width="70px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40Naishad-M~%23+whoami;%E2%9C%93+Android+developer;%E2%9C%93+Problem+solver+;%E2%9C%93+MERN+stack+developer+;%E2%9C%93+Full+Stack+developer+;%E2%9C%93+Web+Developer+;%E2%9C%93+Freelancer+)](https://git.io/typing-svg)
 
 
 
