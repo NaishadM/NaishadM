@@ -1,10 +1,10 @@
-## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40Naishad-M~%23+whoami;%E2%9C%93+Android+developer;%E2%9C%93+Problem+solver+;%E2%9C%93+MERN+stack+developer+;%E2%9C%93+Web+Developer+;%E2%9C%93+Freelancer+)](https://git.io/typing-svg)
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40Naishad-M~%23+whoami;%E2%9C%93+Android+developer;%E2%9C%93+Problem+solver+;%E2%9C%93+MERN+stack+developer+;%E2%9C%93+Full+Stack+developer+;%E2%9C%93+Web+Developer+;%E2%9C%93+Freelancer+)](https://git.io/typing-svg)
 
 
 
 ###
 
-<h3 align="center"></h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 <p
  align="left"> <img 
