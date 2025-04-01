@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">A passionate Full-stack developer</h3>
+<h3 align="center">A passionate Full-stack developer and AI Engineer</h3>
 
 <p
  align="left"> <img 
